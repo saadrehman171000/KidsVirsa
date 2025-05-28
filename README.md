@@ -2,7 +2,7 @@
 
 An interactive platform to teach Punjabi language from alphabets to advanced sentences, incorporating games, activities, puzzles, and video lessons.
 
-## 🌟 Features
+## Features
 
 - **Structured Learning Modules**: Six progressive modules aligned with the Punjab Board Class 1 textbook.
 - **Interactive Activities**: Engaging games, quizzes, and puzzles to reinforce learning.
@@ -11,7 +11,7 @@ An interactive platform to teach Punjabi language from alphabets to advanced sen
 - **Printable Resources**: Downloadable PDF practice sheets for handwriting and stroke order.
 - **Community Engagement**: Forums for learners to share experiences and ask questions.
 
-## 📚 Learning Roadmap
+## Learning Roadmap
 
 | Module | Topics Covered | Interactive Elements |
 |--------|---------------|---------------------|
@@ -22,7 +22,7 @@ An interactive platform to teach Punjabi language from alphabets to advanced sen
 | 5. Advanced Reading | Short stories, poems | Read-along audio, comprehension quizzes |
 | 6. Cultural Immersion | Festivals, folk songs, proverbs | Virtual tours, cultural trivia games |
 
-## 🖥️ Tech Stack
+## Tech Stack
 
 - **Frontend**: Next.js, Tailwind CSS, Framer Motion
 - **Backend**: PostgreSQL via Neon
@@ -30,7 +30,7 @@ An interactive platform to teach Punjabi language from alphabets to advanced sen
 - **Authentication**: Email and Google OAuth
 - **Media Hosting**: YouTube embeds and custom content
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -66,7 +66,7 @@ npm run dev
 
 Open http://localhost:3000 to view the application.
 
-## 📝 Writing Practice Resources
+## Writing Practice Resources
 
 Download printable PDF sheets to practice Punjabi handwriting:
 
@@ -76,14 +76,14 @@ Download printable PDF sheets to practice Punjabi handwriting:
 
 Access these resources in the "Writing Practice" section of each module.
 
-## 🎨 Design and UI
+## Design and UI
 
 - **Color Palette**: Warm and vibrant colors reflecting Punjabi culture (e.g., yellows, oranges, reds, greens).
 - **Typography**: Friendly, rounded fonts like Poppins and Nunito for readability.
 - **Animations**: Smooth transitions using Framer Motion to enhance user engagement.
 - **Responsive Design**: Optimized for desktops, tablets, and mobile devices.
 
-## 🛠️ Contributing
+## Contributing
 
 We welcome contributions from the community!
 
@@ -104,11 +104,11 @@ git push origin feature/YourFeatureName
 
 Please ensure your code adheres to the project's coding standards and includes appropriate tests.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
 
-## 📬 Contact
+## Contact
 
 For questions, suggestions, or feedback:
 
