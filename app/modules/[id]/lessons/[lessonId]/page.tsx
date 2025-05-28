@@ -10,8 +10,8 @@ import LessonActivity from "@/components/lessons/LessonActivity"
 
 export function generateMetadata({ params }: { params: { id: string; lessonId: string } }): Metadata {
   return {
-    title: `Lesson ${params.lessonId} - Module ${params.id} - Learn Punjabi`,
-    description: `Learn Punjabi with our interactive lesson ${params.lessonId} from module ${params.id}`,
+    title: `Lesson ${params.lessonId} - Module ${params.id} - Kids Virsa`,
+    description: `Learn Punjabi with our interactive lesson ${params.lessonId} from module ${params.id} on Kids Virsa`,
   }
 }
 

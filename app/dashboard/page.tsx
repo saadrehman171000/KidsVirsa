@@ -9,8 +9,8 @@ import RecentActivity from "@/components/dashboard/RecentActivity"
 import AchievementBadges from "@/components/dashboard/AchievementBadges"
 
 export const metadata: Metadata = {
-  title: "Dashboard - Learn Punjabi",
-  description: "Track your progress and continue your Punjabi learning journey",
+  title: "Dashboard - Kids Virsa",
+  description: "Track your progress and continue your Punjabi learning journey with Kids Virsa",
 }
 
 export default function Dashboard() {

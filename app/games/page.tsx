@@ -4,8 +4,8 @@ import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle }
 import { Button } from "@/components/ui/button"
 
 export const metadata: Metadata = {
-  title: "Games & Activities - Learn Punjabi",
-  description: "Interactive games and activities to help you learn Punjabi in a fun way",
+  title: "Games & Activities - Kids Virsa",
+  description: "Interactive games and activities to help you learn Punjabi in a fun way with Kids Virsa",
 }
 
 export default function GamesPage() {

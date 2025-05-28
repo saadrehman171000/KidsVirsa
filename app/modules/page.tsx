@@ -6,8 +6,8 @@ import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle }
 import { Progress } from "@/components/ui/progress"
 
 export const metadata: Metadata = {
-  title: "Learning Modules - Learn Punjabi",
-  description: "Explore our structured Punjabi learning modules from alphabets to advanced sentences",
+  title: "Learning Modules - Kids Virsa",
+  description: "Explore our structured Punjabi learning modules from alphabets to advanced sentences with Kids Virsa",
 }
 
 export default function ModulesPage() {

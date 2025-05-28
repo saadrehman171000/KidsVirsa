@@ -8,8 +8,8 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 
 export function generateMetadata({ params }: { params: { id: string } }): Metadata {
   return {
-    title: `Module ${params.id} - Learn Punjabi`,
-    description: `Learn Punjabi with our structured Module ${params.id} lessons and activities`,
+    title: `Module ${params.id} - Kids Virsa`,
+    description: `Learn Punjabi with our structured Module ${params.id} lessons and activities on Kids Virsa`,
   }
 }
 

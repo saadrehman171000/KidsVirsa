@@ -10,9 +10,9 @@ export default function Footer() {
           <div className="space-y-4">
             <Link href="/" className="flex items-center space-x-2">
               <div className="w-8 h-8 bg-orange-600 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-lg">ਪ</span>
+                <span className="text-white font-bold text-lg">ਕ</span>
               </div>
-              <span className="text-xl font-bold">Learn Punjabi</span>
+              <span className="text-xl font-bold">Kids Virsa</span>
             </Link>
             <p className="text-gray-400">
               Master the Punjabi language through interactive lessons, games, and cultural immersion.
@@ -116,7 +116,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-gray-800 mt-12 pt-8 text-center text-gray-400">
-          <p>&copy; 2024 Learn Punjabi. All rights reserved.</p>
+          <p>&copy; 2024 Kids Virsa. All rights reserved.</p>
         </div>
       </div>
     </footer>

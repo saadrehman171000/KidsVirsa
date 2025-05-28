@@ -2,8 +2,8 @@ import type { Metadata } from "next"
 import AssessmentTest from "@/components/assessment/AssessmentTest"
 
 export const metadata: Metadata = {
-  title: "Assessment Test - Learn Punjabi",
-  description: "Take our assessment test to determine your Punjabi proficiency level",
+  title: "Assessment Test - Kids Virsa",
+  description: "Take our assessment test to determine your Punjabi proficiency level with Kids Virsa",
 }
 
 export default function AssessmentPage() {

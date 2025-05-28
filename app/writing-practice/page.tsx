@@ -6,8 +6,8 @@ import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle }
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 
 export const metadata: Metadata = {
-  title: "Writing Practice - Learn Punjabi",
-  description: "Download worksheets to practice writing Punjabi characters and words",
+  title: "Writing Practice - Kids Virsa",
+  description: "Download worksheets to practice writing Punjabi characters and words with Kids Virsa",
 }
 
 export default function WritingPracticePage() {

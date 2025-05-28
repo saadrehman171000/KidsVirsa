@@ -5,8 +5,8 @@ import { Progress } from "@/components/ui/progress"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 
 export const metadata: Metadata = {
-  title: "Rewards & Achievements - Learn Punjabi",
-  description: "Track your achievements and see how you rank among other learners",
+  title: "Rewards & Achievements - Kids Virsa",
+  description: "Track your achievements and see how you rank among other learners on Kids Virsa",
 }
 
 export default function RewardsPage() {

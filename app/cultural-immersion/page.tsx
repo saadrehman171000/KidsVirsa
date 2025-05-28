@@ -5,8 +5,9 @@ import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle }
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 
 export const metadata: Metadata = {
-  title: "Cultural Immersion - Learn Punjabi",
-  description: "Explore Punjabi culture, traditions, festivals, and more to enhance your language learning",
+  title: "Cultural Immersion - Kids Virsa",
+  description:
+    "Explore Punjabi culture, traditions, festivals, and more to enhance your language learning with Kids Virsa",
 }
 
 export default function CulturalImmersionPage() {

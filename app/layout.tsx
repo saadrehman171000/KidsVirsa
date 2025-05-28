@@ -13,10 +13,9 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: "Learn Punjabi - Interactive Learning Platform",
+  title: "Kids Virsa - Interactive Punjabi Learning Platform",
   description:
-    "Learn Punjabi language from alphabets to advanced sentences with interactive lessons, games, and cultural content.",
-    generator: 'v0.dev'
+    "Learn Punjabi language from alphabets to advanced sentences with interactive lessons, games, and cultural content designed for kids and beginners.",
 }
 
 export default function RootLayout({
